@@ -1,6 +1,3 @@
-Here's the complete `README.md` file with proper Markdown formatting:  
-
-```markdown
 # Geocoding and Mapping Project 🌍
 
 A Python application that geocodes university locations using OpenStreetMap's Nominatim API and visualizes them on an interactive map.
