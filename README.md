@@ -52,10 +52,13 @@ The `where.js` file contains an array `myData` with the following structure for 
 [50.065703299999996, 19.918958667058632, 'AGH University of Science and Technology']
 ```
 
-## 📸 Required Screenshots
+## 📸  Screenshots
 - Terminal output showing successful `geoload.py` execution.
+  ![Picture_1](https://github.com/user-attachments/assets/9a863589-303c-44cb-948d-3c8f0e0b983b)
 - Database snapshot from DB Browser showing records.
+  ![Picture_4](https://github.com/user-attachments/assets/b6d442b1-4eff-4ed8-bbac-0ea74ed28a0b)
 - Map visualization with multiple location pins in `where.html`.
+  ![Picture_3](https://github.com/user-attachments/assets/ed1d6637-8185-4faa-8a60-2683b97f730b)
 
 ## 🙏 Acknowledgments
 This project was developed under the guidance of **Dr. Charles Russel Severance** (University of Michigan) as part of the _"Python for Everybody"_ curriculum.  
